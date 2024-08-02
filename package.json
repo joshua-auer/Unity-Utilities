@@ -1,0 +1,17 @@
+{
+    "name": "com.joshua-auer.unity-utilities",
+    "version": "1.0.0",
+    "displayName": "Unity Utilities",
+    "description": "A basic set of utility classes, extension methods and hotkeys.",
+    "unity": "2022.3",
+    "keywords": [
+        "utilities",
+        "utility",
+        "hotkeys"
+    ],
+    "author": {
+        "name": "Joshua Auer",
+        "email": "joshua.auer@loop.colum.edu",
+        "url": "https://joshuaauer.wixsite.com/joshua-auer"
+    }
+}
