@@ -554,3 +554,23 @@ Possible yield instructions include:
     `Ctrl`+`L`
 
     Locks/unlocks the inspector.
+
+## How To Install
+
+- ### Package Manager (recommended)
+
+    1. Open the Package Manager from within Unity by going to `Window->Package Manager`
+    2. Click the `+` icon in the top left corner of the Package Manager window and select `Add package from git URL...`
+    3. Copy paste the following URL into the text box and click import:
+        
+        ```
+        https://github.com/joshua-auer/Unity-Utilities.git
+        ```
+
+- ### Add To Manifest
+
+    Locate your project's `manifest.json` file and add the following line:
+
+    ```json
+    "com.joshua-auer.unity-utilities": "https://github.com/joshua-auer/Unity-Utilities.git"
+    ```
